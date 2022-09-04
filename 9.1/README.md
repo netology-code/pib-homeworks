@@ -25,21 +25,50 @@
 
 <details>
  <summary>Подсказка по установке Ignition (доступна по клику)</summary>
-
-
+ 
+Установка Ignition вполне стандартная и не имеет сложностей в реализации. Перейдите по [ссылке](https://inductiveautomation.com/downloads/) и выберите пункт "Download for Windows".
+ 
+ ![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/MES_4.png)
+ 
+ Таким образом вы скачаете файл ignition-8.1.19-windows-64-installer.exe. После этого запустите его и пройдите стандартную процедуру установки.
 
 </details>
 
 <details>
  <summary>Подсказка по установке MySQL Server и MySQL Workbench (доступна по клику)</summary>
 
-
+MySQL Server и MySQL Workbench - это компоненты для работы с базами данных. Для установки MySQL Server перейдите по [ссылке](https://dev.mysql.com/downloads/windows/installer/8.0.html) на страницу установки программы. Далее в выпадающем меню выберите вашу операционную систему и тип дистрибутива - **WEB-пакет** (устанавливается по сети Интернет) или **стандартный инсталяционный пакет** (имеет больший размер, однако для установки не требует подключение к сети Интернет) и нажмите на соответствующую кнопку **"DOWNLOAD"**.
+ 
+ ![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/MES_3.png)
+ 
+ Далее пройдите стандартную процедуру установки MySQL Server.
+ 
+ После этого установите MySQL Workbench. Для этого перейдите по [ссылке](https://dev.mysql.com/downloads/workbench/) на страницу установки программы. Далее в выпадающем меню выберите вашу операционную систему и нажмите на кнопку **"DOWNLOAD"**.
+ 
+ ![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/MES_1.png)
+ 
+  Далее пройдите стандартную процедуру установки MySQL Workbench.
 
 </details>
 
 <details>
  <summary>Подсказка по установке MES-модулей (доступна по клику)</summary>
-
+ 
+Модули для Ignition доступны по [ссылке](https://www.sepasoft.com/downloads/). Разверните список **MES Platform 3.0 Stable Release**.
+ 
+ ![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/MES_2.png)
+ 
+Все модули представлены в формате *.modl. После их скачивания вы сможете установить их в вашу MES-систему.
+ 
+**Необходимые модули:**
+ 1. **PRODUCTION MODULE** (в первую очередь!)
+ 2. **BATCH PROCEDURE**
+ 3. **OEE DOWNTIME**
+ 4. **TRACK & TRACE**
+ 5. **SETTINGS & CHANGEOVER**
+ 6. **SPC**
+ 7. **DOCUMENT MANAGER**
+ 
 
 
 </details>
@@ -74,10 +103,10 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [MES Ignition](). 
-2. [MySQL Server]().
-3. [MySQL Workbench]().  
-4. [MES-модули](). 
+1. [MES Ignition](https://inductiveautomation.com/downloads/). 
+2. [MySQL Server](https://dev.mysql.com/downloads/windows/installer/8.0.html).
+3. [MySQL Workbench](https://dev.mysql.com/downloads/workbench/).  
+4. [MES-модули](https://www.sepasoft.com/downloads/). 
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1X7oGpqV1liW_kXRb9Mk8ZsrcQD8rnx7cphRToOjyznw/edit?usp=sharing).
 6. [Google.Диск](https://drive.google.com/drive/my-drive)
 7. [Google.Документы](https://docs.google.com/document/u/0/?tgif=d).
