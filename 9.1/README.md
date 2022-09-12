@@ -228,7 +228,7 @@ Ignition Gateway может быть настроен на работу с не�
 5. [MES-модули](https://www.sepasoft.com/downloads/)
 6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1K3rUI8rT765rX8p8fIarlTpN6ImvCCwxKgTG7-2a_cs/edit?usp=sharing)
 7. [Инструкция по установке Ignition Designer](https://docs.google.com/presentation/d/1FoGLMRbFHt9x21JoDXvSH3CWbL26916vyjqArkmyS3Y/edit?usp=sharing)
-8. Для задания со * [TIA Portal 13, PLCSIM 13](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW)
+8. [TIA Portal 13, PLCSIM 13](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW)
 
 ------
 
