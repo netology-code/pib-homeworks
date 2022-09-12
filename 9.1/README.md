@@ -45,7 +45,7 @@
 
 </details>
 
-2. Установить [MySQL Server](https://dev.mysql.com/downloads/windows/installer/8.0.html) и [MySQL Workbench](https://dev.mysql.com/downloads/workbench/).
+2. Установить [MySQL Server](https://dev.mysql.com/downloads/windows/installer/8.0.html) и [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) (для задания со *).
 
 <details>
  <summary>Подсказка по установке MySQL Server и MySQL Workbench (доступна по клику)</summary>
@@ -78,7 +78,7 @@ MySQL ConnectorJ - это драйвер для связи Ignition и MySQL.
 
 </details>
 
-3. Установить [MES-модули, необходимые для работы](https://www.sepasoft.com/downloads/).
+3. Установить [MES-модули, необходимые для работы](https://www.sepasoft.com/downloads/) (для задания со *).
 
 <details>
  <summary>Подсказка по установке MES-модулей (доступна по клику)</summary>
@@ -112,7 +112,7 @@ MySQL ConnectorJ - это драйвер для связи Ignition и MySQL.
 
 </details>
 
-4. Выполните настройку соединения с базой данных.
+4. Выполните настройку соединения с базой данных (для задания со *).
 
 <details>
  <summary>Подсказка по настройке базы данных для MES (доступна по клику)</summary>
@@ -181,7 +181,7 @@ Ignition Gateway может быть настроен на работу с не�
 
 </details>
 
-6. Для задания со *:
+6. При необходимости выполните установку TIA Portal 13, PLCSIM 13 (для задания со *):
 
 6.1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
 
