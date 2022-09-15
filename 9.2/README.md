@@ -33,9 +33,9 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [ЭНТЕК SCADA](https://my.entels.ru/entek/files/123305991/123305992/3/1643874482844/Entek_setup_full.exe).
-2. [Firebird](https://my.entels.ru/entek/files/123305991/123305995/1/1631190782000/Firebird_2.5_setup.exe).
-3. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing).
+1. [ЭНТЕК SCADA](https://my.entels.ru/entek/files/123305991/123305992/3/1643874482844/Entek_setup_full.exe)
+2. [Firebird](https://my.entels.ru/entek/files/123305991/123305995/1/1631190782000/Firebird_2.5_setup.exe)
+3. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing)
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1qqBzReqvBksIjtBdcU_8Osekhs9dv02sxFV_ku1Vsog/edit?usp=sharing)
 
 ------
