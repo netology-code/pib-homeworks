@@ -11,13 +11,6 @@
 
 ------
 
-### Чеклист готовности к домашнему заданию
-
-1. Установите программу [ЭНТЕК SCADA](https://my.entels.ru/entek/files/123305991/123305992/3/1643874482844/Entek_setup_full.exe).
-2. Установите СУБД [Firebird](https://my.entels.ru/entek/files/123305991/123305995/1/1631190782000/Firebird_2.5_setup.exe).
-
-------
-
 ### Инструкция к заданию
 
 1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1qqBzReqvBksIjtBdcU_8Osekhs9dv02sxFV_ku1Vsog/edit?usp=sharing) себе на Google Диске.
@@ -33,14 +26,12 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [ЭНТЕК SCADA](https://my.entels.ru/entek/files/123305991/123305992/3/1643874482844/Entek_setup_full.exe)
-2. [Firebird](https://my.entels.ru/entek/files/123305991/123305995/1/1631190782000/Firebird_2.5_setup.exe)
-3. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing)
-4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1qqBzReqvBksIjtBdcU_8Osekhs9dv02sxFV_ku1Vsog/edit?usp=sharing)
+1. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing)
+2. [Шаблон для домашнего задания](https://docs.google.com/document/d/1qqBzReqvBksIjtBdcU_8Osekhs9dv02sxFV_ku1Vsog/edit?usp=sharing)
 
 ------
 
-### Задание 1. Создание спецификации
+### Задание. Создание спецификации
 
 Вы - ведущий инженер по автоматизации, и никто лучше вас не знает, как правильно спроектировать систему АИИС КУЭ. В связи с этим, руководство поставило задачу спроектировать такую систему на предприятии.
 Имеются следующие входные данные:
@@ -59,7 +50,6 @@
 - ячейка 8: 90 кВА
 - ячейка 9: 15 кВА
 - ячейка 10: 11 кВА.
-3. Необходимо использовать УСПД Энергомера СЕ805M (B,E).
 
 Спроектируйте систему АИИС КУЭ с учётом входных данных. Для этого произведите подбор следующего оборудования:
 - трансформаторы тока
@@ -68,14 +58,6 @@
 - дополнительное оборудование, необходимое для построения системы.
 
 *Результатом выполнения данного задания будет [спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing) с комплектом оборудования для работы АИИС КУЭ по заданным критериям.* 
-
-------
-
-### Задание 2. Создание проекта ЭНТЕК SCADA
-
-1. 
-
-*Результатом выполнения данного задания 
 
 ------
 
