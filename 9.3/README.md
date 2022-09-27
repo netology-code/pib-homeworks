@@ -23,7 +23,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1fru6UrEYrEQdtbKysrhosNnEL8GvGMz62nVjH-7UarQ/edit?usp=sharing) себе на Google Диске.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1duhV6c8yC-kr254tpDiP0tPpqWHu_zZCglhr93QNV_A/edit?usp=sharing) себе на Google Диске.
 2. В названии файла введите вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. Скопируйте текст задания в свой документ.
@@ -38,7 +38,7 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [KIWI](http://i-mt.net/kiwi)
-2. [Шаблон для домашнего задания](https://docs.google.com/document/d/1fru6UrEYrEQdtbKysrhosNnEL8GvGMz62nVjH-7UarQ/edit?usp=sharing)
+2. [Шаблон для домашнего задания](https://docs.google.com/document/d/1duhV6c8yC-kr254tpDiP0tPpqWHu_zZCglhr93QNV_A/edit?usp=sharing)
 
 ------
 
