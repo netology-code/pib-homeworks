@@ -13,8 +13,48 @@
 
 ### Чеклист готовности к домашнему заданию
 
-1. Установите программу [ЭНТЕК SCADA](https://my.entels.ru/entek/files/123305991/123305992/3/1643874482844/Entek_setup_full.exe).
-2. Установите СУБД [Firebird](https://my.entels.ru/entek/files/123305991/123305995/1/1631190782000/Firebird_2.5_setup.exe).
+1. Установите программное обеспечение MySQL Server и MySQL Workbench.
+
+<details>
+ <summary>Подсказка по установке MySQL Server и MySQL Workbench (доступна по клику)</summary>
+
+MySQL Server и MySQL Workbench - это компоненты для работы с базами данных.
+
+Для установки MySQL Server:
+
+1. Перейдите по [ссылке](https://dev.mysql.com/downloads/windows/installer/8.0.html) на страницу установки программы. 
+2. В выпадающем меню выберите вашу операционную систему и тип дистрибутива - **WEB-пакет** (устанавливается по сети Интернет) или **стандартный инсталяционный пакет** (имеет больший размер, однако для установки не требует подключение к сети Интернет).
+3. Нажмите на соответствующую кнопку **«DOWNLOAD»**.
+
+![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/ASKUE_3.png)
+
+4. Далее пройдите стандартную процедуру установки MySQL Server.
+
+После этого установите MySQL Workbench:
+
+1. Для этого перейдите по [ссылке](https://dev.mysql.com/downloads/workbench/) на страницу установки программы. 
+2. В выпадающем меню выберите вашу операционную систему и нажмите на кнопку **«DOWNLOAD»**.
+
+![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/ASKUE_1.png)
+
+3. Далее пройдите стандартную процедуру установки MySQL Workbench.
+
+После установки создайте новую базу данных (New Scheme) с именем askue.
+
+**Установка базы данных завершена!**
+
+</details>
+
+2. Установите пакет cEnergo компании "Энергомера".
+
+<details>
+<summary>Подсказка по установке cEnergo</summary>
+
+  Для установки cEnergo выполните следующие действия:
+
+  1. Перейдите по [ссылке](http://www.energomera.ru/ru/support/download/software) и скачайте дистрибутив программы.
+  2. Выполните стандартные шаги по установки программы на свой компьютер.
+  </details>
 
 ------
 
@@ -31,16 +71,17 @@
 
 ------
 
-### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
+### Инструменты/дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [ЭНТЕК SCADA](https://my.entels.ru/entek/files/123305991/123305992/3/1643874482844/Entek_setup_full.exe)
-2. [Firebird](https://my.entels.ru/entek/files/123305991/123305995/1/1631190782000/Firebird_2.5_setup.exe)
-3. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing)
-4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1qqBzReqvBksIjtBdcU_8Osekhs9dv02sxFV_ku1Vsog/edit?usp=sharing)
+1. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing)
+2. [Шаблон для домашнего задания](https://docs.google.com/document/d/1qqBzReqvBksIjtBdcU_8Osekhs9dv02sxFV_ku1Vsog/edit?usp=sharing)
+3. [MySQL Server](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+4. [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+5. [cEnergo](http://www.energomera.ru/ru/support/download/software)
 
 ------
 
-### Задание 1. Создание спецификации
+### Задание 1
 
 Вы - ведущий инженер по автоматизации, и никто лучше вас не знает, как правильно спроектировать систему АИИС КУЭ. В связи с этим, руководство поставило задачу спроектировать такую систему на предприятии.
 Имеются следующие входные данные:
@@ -71,11 +112,16 @@
 
 ------
 
-### Задание 2. Создание проекта ЭНТЕК SCADA
+### Задание 2
 
-1. 
+Используя программное обеспечение cEnergo выполните следующие действия:
 
-*Результатом выполнения данного задания 
+1. Создайте новый проект.
+2. В новом проекте создайте несколько электросчетчиков и свяжите их по параллельной топологии, описанной в задании 1.
+3. Произведите настройку связи проекта с базой данных MySQL.
+4. Вывести показания электросчетчиков в базу данных.
+
+*Результатом выполнения данного задания будет снимок экрана с показаниями электросчетчиков в базе данных.* 
 
 ------
 
