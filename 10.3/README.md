@@ -17,7 +17,8 @@
 1. В названии файла введите корректное название лекции и вашу фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 1. Скопируйте текст задания в свой документ.
-1. Выполните домашнее задание, запишите ответы.
+1. Скачайте и установите программу [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer).
+1. Выполните домашнее задание, впишите ответы.
 1. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 1. Любые вопросы по решению задач задавайте в чате учебной группы.
 
@@ -26,13 +27,14 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1WYqm6iwLYFV5vl7A4mG7zgpFGpNDOyLp5y4aD3iatvo/edit?usp=sharing)
-1. [Активация функции port-security.](https://artemsannikov.ru/cisco/packet-tracer/switchport-port-security-cpt/)
-1. [Port secutity](http://ciscotips.ru/portsecurity)
-1. [How to configure Switch Port Security in Packet Tracer](https://computernetworking747640215.wordpress.com/2019/11/12/switch-port-security/)
-1. [Configure Standard Access Control List Step by Step Guide](https://www.computernetworkingnotes.com/ccna-study-guide/configure-standard-access-control-list-step-by-step-guide.html)
-1. [Изучаем настройки ACL списки доступа в Cisco](https://litl-admin.ru/cisco/izuchaem-nastrojki-acl-spiski-dostupa-v-cisco.html)
-1. [Packet Filtering using Access Control Lists (ACLS)](https://www.section.io/engineering-education/packet-filtering-using-acls/)
-1. [ACL: списки контроля доступа в Cisco IOS](https://habr.com/ru/post/121806/)
+2. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
+3. [Активация функции port-security.](https://artemsannikov.ru/cisco/packet-tracer/switchport-port-security-cpt/)
+4. [Port secutity](http://ciscotips.ru/portsecurity)
+5. [How to configure Switch Port Security in Packet Tracer](https://computernetworking747640215.wordpress.com/2019/11/12/switch-port-security/)
+6. [Configure Standard Access Control List Step by Step Guide](https://www.computernetworkingnotes.com/ccna-study-guide/configure-standard-access-control-list-step-by-step-guide.html)
+7. [Изучаем настройки ACL списки доступа в Cisco](https://litl-admin.ru/cisco/izuchaem-nastrojki-acl-spiski-dostupa-v-cisco.html)
+8. [Packet Filtering using Access Control Lists (ACLS)](https://www.section.io/engineering-education/packet-filtering-using-acls/)
+9. [ACL: списки контроля доступа в Cisco IOS](https://habr.com/ru/post/121806/)
 
 -----
 
