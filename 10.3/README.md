@@ -13,7 +13,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1JpEXp6bRgmOtNbMosYwIjgBwqzbtQoAxsIaS1M1V9r0/edit) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1WYqm6iwLYFV5vl7A4mG7zgpFGpNDOyLp5y4aD3iatvo/edit?usp=sharing) себе на Google Диск.
 1. В названии файла введите корректное название лекции и вашу фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 1. Скопируйте текст задания в свой документ.
@@ -25,7 +25,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1JpEXp6bRgmOtNbMosYwIjgBwqzbtQoAxsIaS1M1V9r0/edit)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1WYqm6iwLYFV5vl7A4mG7zgpFGpNDOyLp5y4aD3iatvo/edit?usp=sharing)
 1. [Активация функции port-security.](https://artemsannikov.ru/cisco/packet-tracer/switchport-port-security-cpt/)
 1. [Port secutity](http://ciscotips.ru/portsecurity)
 1. [How to configure Switch Port Security in Packet Tracer](https://computernetworking747640215.wordpress.com/2019/11/12/switch-port-security/)
@@ -34,6 +34,7 @@
 1. [Packet Filtering using Access Control Lists (ACLS)](https://www.section.io/engineering-education/packet-filtering-using-acls/)
 1. [ACL: списки контроля доступа в Cisco IOS](https://habr.com/ru/post/121806/)
 
+-----
 
 ### Задание 1 (Port security)
 
@@ -50,6 +51,15 @@
 1. Разрешите всем хостам (PLC1, PLC1, PLC2) доступ только с службе WWW сервера (Server)
 
 *Приведите ответ в свободной форме и подтверждение аудита в виде снимка экрана*
+
+------
+
+
+### Правила приёма работы
+
+1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
+2. Документ размещён на личном Google Диске.
+3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
 
