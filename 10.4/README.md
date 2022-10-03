@@ -60,7 +60,7 @@
           scanf("%i", &lvl);
           printf("Level = %i\n", lvl);
           
-          pumps[pump] = lvl;
+          pumps[number] = lvl;
         }
       
         return 0;
