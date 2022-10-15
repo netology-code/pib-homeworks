@@ -29,7 +29,7 @@
 1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1dQHNi-Hktl0he67SxXP_56CIjeHSxjgsxk-FgL7DgF0/edit?usp=sharing)
 1. [Как настроить брандмауэр Windows и правила](https://sonikelf.ru/kak-nastroit-brandmauer-windows/)
 1. [Открытие порта в брандмауэре Windows](https://cloudlite.ru/faq/nastroyka-brandmauera-windows-server/)
-1. [How to Audit File Accesses, Read Events](https://www.lepide.com/how-to/track-who-read-files-on-your-windows-file-serves.html)
+1. [How to Audit File Accesses, Read Events](https://www.lepide.com/how-to/track-who-read-files-on-your-windows-file-servers.html)
 1. [Применение базовой политики аудита к файлу или папке](https://learn.microsoft.com/ru-ru/windows/security/threat-protection/auditing/apply-a-basic-audit-policy-on-a-file-or-folder)
 1. [Аудит доступа к файлам и папкам Windows ](https://oblako.kz/help/windows/audit-dostpa-k-failam-windows-server)
 1. [Аудит доступа к объектам](https://www.osp.ru/winitpro/2001/05/174875)
