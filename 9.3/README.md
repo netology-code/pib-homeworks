@@ -23,7 +23,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1duhV6c8yC-kr254tpDiP0tPpqWHu_zZCglhr93QNV_A/edit?usp=sharing) себе на Google Диске.
+1. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/654/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0__%D0%A0%D0%97%D0%90__%D0%9F%D0%90%D0%97___-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диске.
 2. В названии файла введите вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. Скопируйте текст задания в свой документ.
@@ -38,7 +38,7 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [KIWI](http://i-mt.net/kiwi)
-2. [Шаблон для домашнего задания](https://docs.google.com/document/d/1duhV6c8yC-kr254tpDiP0tPpqWHu_zZCglhr93QNV_A/edit?usp=sharing)
+2. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/654/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0__%D0%A0%D0%97%D0%90__%D0%9F%D0%90%D0%97___-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 ------
 
