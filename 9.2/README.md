@@ -26,7 +26,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing)
+1. [Спецификация](https://u.netology.ru/backend/uploads/lms/content_assets/file/3821/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx)
 2. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3820/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82__%D0%90%D0%98%D0%98%D0%A1%D0%9A%D0%A3%D0%AD___-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 ------
@@ -57,7 +57,7 @@
 - устройства сбора и передачи данных (УСПД)
 - дополнительное оборудование, необходимое для построения системы.
 
-*Результатом выполнения данного задания будет [спецификация](https://docs.google.com/spreadsheets/d/1Sk_CS3JmBbKipHhmwpmyJNpC4pY0tXvrYxdRi7ezBFA/edit?usp=sharing) с комплектом оборудования для работы АИИС КУЭ по заданным критериям.* 
+*Результатом выполнения данного задания будет [спецификация](https://u.netology.ru/backend/uploads/lms/content_assets/file/3821/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx) с комплектом оборудования для работы АИИС КУЭ по заданным критериям.* 
 
 ------
 
