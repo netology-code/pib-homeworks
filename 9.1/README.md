@@ -78,7 +78,7 @@ MySQL ConnectorJ - это драйвер для связи Ignition и MySQL.
 
 </details>
 
-3. Установить [MES-модули, необходимые для работы](https://www.sepasoft.com/downloads/) (для задания со *).
+3. Установить [MES-модули, необходимые для работы](https://disk.yandex.ru/d/_d71aAb7EPKjTA) (для задания со *).
 
 <details>
  <summary>Подсказка по установке MES-модулей (доступна по клику)</summary>
