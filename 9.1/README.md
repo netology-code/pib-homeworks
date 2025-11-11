@@ -17,10 +17,14 @@
 
 ### Чеклист готовности к домашнему заданию
 
-1. Установить MES-систему [Ignition Gateway](https://inductiveautomation.com/downloads/).
+1. Установить MES-систему [Ignition Gateway](https://inductiveautomation.com/downloads/). (обратите внимание, что ссылка недоступна из России).
 
 <details>
- <summary>Подсказка по установке Ignition (доступна по клику)</summary>
+ <summary> **При возникновении сложностей по установке Ignition воспользуйтесь инструкцией** (доступна по клику)</summary>
+ При возникновении сложностей со скачиванием и установкой Ignition, вы можете воспльзоваться следующей [ссылкой](https://disk.360.yandex.ru/d/E7ZQw_H8Zf4b7g). 
+
+<details>
+ <summary>Подсказка по установке Ignition с использованием сервиса, позволяющему работать с иностранными сервисами (доступна по клику)</summary>
  
 Установка Ignition вполне стандартная и не имеет сложностей в реализации. Перейдите по [ссылке](https://inductiveautomation.com/downloads/) и выберите пункт «Download for Windows».
  
