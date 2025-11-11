@@ -26,9 +26,9 @@
  </details>
 
 <details>
- <summary>Подсказка по установке Ignition с использованием сервиса, позволяющему работать с иностранными сервисами (доступна по клику)</summary>
+ <summary>Подсказка по установке Ignition с использованием сервиса, позволяющего работать с зарубежными ресурсами (доступна по клику)</summary>
  
-Установка Ignition вполне стандартная и не имеет сложностей в реализации. Активируйте сервис для работы с иностранными сервисами. Перейдите по [ссылке](https://inductiveautomation.com/downloads/) и выберите пункт «Download for Windows».
+Установка Ignition вполне стандартная и не имеет сложностей в реализации. Активируйте сервис для работы с зарубежными ресурсами. Перейдите по [ссылке](https://inductiveautomation.com/downloads/) и выберите пункт «Download for Windows».
  
  ![image](https://github.com/netology-code/pib-homeworks/blob/main/9.1/MES_4.png)
  
