@@ -17,16 +17,16 @@
 
 ### Чеклист готовности к домашнему заданию
 
-1. Установить MES-систему [Ignition Gateway](https://inductiveautomation.com/downloads/). (обратите внимание, что ссылка недоступна из России).
+1. Установить MES-систему [Ignition Gateway](https://inductiveautomation.com/downloads/).
 
 <details>
- <summary> ! ОБРАТИТЕ ВНИМАНИЕ ! При возникновении сложностей по установке Ignition воспользуйтесь инструкцией (доступна по клику)</summary>
- При возникновении сложностей со скачиванием и установкой Ignition, вы можете воспльзоваться следующей [ссылкой](https://disk.360.yandex.ru/d/E7ZQw_H8Zf4b7g).
+ <summary> Если у вас не открывается ссылка на Ignition, воспользуйтесь ссылкой ниже (нажмите на эту строку).</summary>
+ Скачивание и установка Ignition: https://disk.360.yandex.ru/d/E7ZQw_H8Zf4b7g.
  
  </details>
 
 <details>
- <summary>Подсказка по установке Ignition с использованием сервиса, позволяющего работать с зарубежными ресурсами (доступна по клику)</summary>
+ <summary>Скачивание и установка с сайта inductiveautomation.com (нажмите на эту строку)</summary>
  
 Установка Ignition вполне стандартная и не имеет сложностей в реализации. Активируйте сервис для работы с зарубежными ресурсами. Перейдите по [ссылке](https://inductiveautomation.com/downloads/) и выберите пункт «Download for Windows».
  
@@ -45,16 +45,16 @@
 5. Нажмите **Start Gateway**.
 6. Если вы хотите получить начальный экран с примерами, то нажмите **Yes, Enable Quick Start**. Если не нужно - нажмите **No, thanks, I`d like to start from scratch**. 
 
-**Установка MES-системы Ignition завершена!**
+Установка MES-системы Ignition завершена!
  
- **ВНИМАНИЕ! Во избежание проблем с запуском Igntion необходимо использовать следующие браузеры: Google Chrome, Microsoft Edge, Opera. Эти браузеры проверены, и система Ignition на них запускается. На Yandex.Браузере данная система не работает!**
+ **Для работы с Igntion используйте следующие браузеры: Google Chrome, Microsoft Edge, Opera. Эти браузеры проверены, и система Ignition на них запускается. На Yandex.Браузере Ignition не работает.**
 
 </details>
 
 2. Установить [MySQL Server](https://dev.mysql.com/downloads/windows/installer/8.0.html) и [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) (для задания со *).
 
 <details>
- <summary>Подсказка по установке MySQL Server и MySQL Workbench (доступна по клику)</summary>
+ <summary>Подсказка по установке MySQL Server и MySQL Workbench (нажмите на эту строку)</summary>
 
 MySQL Server и MySQL Workbench - это компоненты для работы с базами данных.
 
@@ -80,7 +80,7 @@ MySQL ConnectorJ - это драйвер для связи Ignition и MySQL.
 
 После установки создайте новую базу данных (New Scheme) с именем mes.
  
-**Установка базы данных завершена!**
+Установка базы данных завершена!
 
 </details>
 
